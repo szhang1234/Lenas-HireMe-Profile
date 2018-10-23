@@ -1,0 +1,21 @@
+body{
+    color:#b32400;
+    background-color:#4d0099;
+    font-size: 20px;}
+h1{
+    background-color:white;
+    text-align:center;}
+h2{
+    Background-color:white;
+    Font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    }
+h3{
+    Background-color:purple;
+    font-size: 30px;}
+h4{
+     Background-color:purple;
+    font-size: 30px;}
+img{
+    width: 400px;}
